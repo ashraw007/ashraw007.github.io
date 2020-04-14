@@ -6,12 +6,6 @@ body{
     color: #505962;
 }
 
-.offset:before{
-    height:  3.5rem;
-    margin-top: -3.5rem;
-    content: "";
-    display: block;
-}
 
 /*--- NAVBAR  ---*/
 
@@ -64,12 +58,12 @@ body{
 #team{
     margin: 0px;
     padding: 10px;
-    background-color: rgb(34, 32, 32);
+    background-color: white;
     min-height: 100vh;
 }
 
 .heading{
-    color: #fff;
+    color:black;
     font-weight: 900;
     letter-spacing: 0.1rem;
     text-align: center;
@@ -91,7 +85,7 @@ body{
     position: relative;
     width: 280px;
     height: 400px;
-    background: #000;
+    background: rgb(88, 88, 88);
     box-shadow: 0 30px 30px rgba(0,0,0,9);
 }
 
@@ -123,7 +117,7 @@ body{
     left: 10%;
     width: 80%;
     height: 60px;
-    background: #fff;
+    background:  rgb(160, 156, 156);
     transition: 0.5s;
     overflow: hidden;
     padding: 15px;
