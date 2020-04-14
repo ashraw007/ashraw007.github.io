@@ -51,6 +51,7 @@ body{
    background-color:  rgb(65, 60, 60);
    color: #fff;
    min-height: 100vh;
+   min-width: 100vh;
 }
 
 /*--- TEAM ---*/
